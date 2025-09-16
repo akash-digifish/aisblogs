@@ -14,7 +14,6 @@ class ContactMessageController extends Controller
     
    
 
-
 public function store(Request $request)
 {
     // Validate input
